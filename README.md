@@ -6,4 +6,5 @@ The recommended approach is to build the notebook using the Binder link. The lin
 
 ### Click the button below to build notebook:   
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Ockvos/diamond-price-prediction/HEAD?labpath=diamond_mlp.ipynb)
+<br></br>
 Once the notebook has launched, click the **“Run”** button located on the menu bar, scroll down, and click **“Run All Cells”**. This action will run through all the code, building the model from scratch, and allowing full interactivity. 
