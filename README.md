@@ -4,5 +4,5 @@ This notebook attempts to predict diamond prices using a neural network. The mod
 
 The recommended approach is to build the notebook using the Binder link. The link will launch an interactive version of the notebook (building the image can take several minutes). The notebook can also be viewed statically by clicking directly on the diamond_mlp.ipynb file in the repository.
 
-Click the button below to build notebook:   
+### Click the button below to build notebook:   
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Ockvos/diamond-price-prediction/HEAD?labpath=diamond_mlp.ipynb)
